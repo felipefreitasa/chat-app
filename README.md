@@ -21,4 +21,5 @@
 - React Native
 - Firebase (Authentication and Firestore database)
 - React Navigation
+- React Native Elements
 - Expo
